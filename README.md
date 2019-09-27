@@ -9,3 +9,13 @@ http://isia.ict.ac.cn/dataset/Place_Pulse_2_dataset.html
 
 ## The dataset can also be downloaded from the following links:
 https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g 
+
+Besides some related works from http://pulse.media.mit.edu/papers/, the following work is also relevant to this dataset
+
+`author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}}, 
+journal={IEEE Transactions on Image Processing}, 
+title={Multi-Task Deep Relative Attribute Learning for Visual Urban Perception}, 
+year={2020}, 
+volume={29}, 
+number={1}, 
+pages={657-669} `
