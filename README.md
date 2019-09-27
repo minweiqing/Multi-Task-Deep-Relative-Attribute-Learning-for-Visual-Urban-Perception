@@ -13,10 +13,12 @@ https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g
 ## Citing
 Besides some related works from http://pulse.media.mit.edu/papers/, our recent work is also relevant to this dataset
 
-<pre><code>    author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}},
+<pre><code>    @ARTICLE{Min-MTDRAL-TIP2020, 
+    author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}}, 
     journal={IEEE Transactions on Image Processing}, 
     title={Multi-Task Deep Relative Attribute Learning for Visual Urban Perception}, 
     year={2020}, 
     volume={29}, 
     number={1}, 
-    pages={657-669}
+    pages={657-669}, 
+}
