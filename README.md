@@ -19,3 +19,11 @@ year={2020},
 volume={29}, 
 number={1}, 
 pages={657-669} `
+
+<pre><code>@inproceedings{renNIPS15fasterrcnn,
+    Author = {Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
+    Title = {Faster {R-CNN}: Towards Real-Time Object Detection
+             with Region Proposal Networks},
+    Booktitle = {Advances in Neural Information Processing Systems ({NIPS})},
+    Year = {2015}
+}
