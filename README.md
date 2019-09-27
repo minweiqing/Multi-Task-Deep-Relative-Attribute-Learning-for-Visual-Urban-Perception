@@ -1,4 +1,4 @@
-# <p align="center"> Multi Task Deep Relative Attribute Learning for Visual Urban Perception</p>
+# <p align="center"> Multi-Task Deep Relative Attribute Learning for Visual Urban Perception</p>
 <div align=center><img width="1000" height="550" src="sample/attribute_strong_weak.png"/></div> 
 
 ## Data collection
@@ -11,7 +11,7 @@ http://isia.ict.ac.cn/dataset/Place_Pulse_2_dataset.html
 https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g 
 
 ## Citing
-Besides some related works from http://pulse.media.mit.edu/papers/, the following work is also relevant to this dataset
+Besides some related works from http://pulse.media.mit.edu/papers/, our recent work is also relevant to this dataset
 
 <pre><code>    author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}},
     journal={IEEE Transactions on Image Processing}, 
