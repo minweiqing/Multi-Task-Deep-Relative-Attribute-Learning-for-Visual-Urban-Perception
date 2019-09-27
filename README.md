@@ -20,12 +20,10 @@ volume={29},
 number={1}, 
 pages={657-669} `
 
-<pre><code>
-    author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}},
+<pre><code> author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}},
     journal={IEEE Transactions on Image Processing}, 
     title={Multi-Task Deep Relative Attribute Learning for Visual Urban Perception}, 
     year={2020}, 
     volume={29}, 
     number={1}, 
     pages={657-669}
-}
