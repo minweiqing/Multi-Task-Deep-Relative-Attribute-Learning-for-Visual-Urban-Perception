@@ -8,8 +8,8 @@ The original Place Pulse 2.0 dataset (http://pulse.media.mit.edu/data/) contains
 http://isia.ict.ac.cn/dataset/Place_Pulse_2_dataset.html 
 
 ## The dataset can also be downloaded from the following links:
-Baidu driven:https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g 
-Google driven:https://drive.google.com/open?id=1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
+Baidu drive:https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g \
+Google drive:https://drive.google.com/open?id=1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
 
 ## Citing
 Besides some related works from http://pulse.media.mit.edu/papers/, our recent work is also relevant to this dataset
